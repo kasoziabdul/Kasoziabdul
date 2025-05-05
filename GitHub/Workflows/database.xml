@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VirtualDJ_Database Version="8.0.0">
+ <Song FilePath="D:\for winlator\audio\Diamond Platnumz - My Baby (Official Lyric Audio)(MP3_160K).mp3" FileSize="3433631" Flag="8192">
+  <Tags Author="﻿Diamond Platnumz" Title="﻿My Baby" Album="﻿My Baby" Remix="MP3 160K" Flag="1" />
+  <Infos SongLength="168.224399" FirstSeen="1795949238" FirstPlay="1795949238" LastPlay="1795949238" PlayCount="1" Bitrate="160" Color="16418534" Cover="2082" />
+  <Scan Version="510" Bpm="0.681519" Volume="1.553396" Key="Dm" />
+  <Poi Pos="0.077415" Type="beatgrid" />
+  <Poi Name="Cue 1" Pos="46.357687" Num="1" />
+  <Poi Type="automix" Point="realStart" />
+  <Poi Pos="165.790476" Type="automix" Point="realEnd" />
+  <Poi Pos="0.092880" Type="automix" Point="fadeStart" />
+  <Poi Pos="162.725442" Type="automix" Point="fadeEnd" />
+  <Poi Pos="15.110385" Type="automix" Point="cutStart" />
+  <Poi Pos="152.434649" Type="automix" Point="cutEnd" />
+  <Poi Pos="43.008594" Type="automix" Point="tempoStart" />
+  <Poi Pos="152.734966" Type="automix" Point="tempoEnd" />
+ </Song>
+ <Song FilePath="D:\for winlator\audio\Diamond Platnumz - The One (Official Music Video)(MP3_160K).mp3" FileSize="4565150" Flag="8192">
+  <Tags Author="﻿Diamond Platnumz" Title="﻿The One" Album="﻿The One" Remix="MP3 160K" Flag="1" />
+  <Infos SongLength="225.874603" FirstSeen="-1830700101" FirstPlay="-1830700101" LastPlay="-1830700101" PlayCount="2" Bitrate="160" Color="13187300" Cover="2082" />
+  <Scan Version="510" Bpm="0.599773" Volume="1.671850" Key="Fm" />
+  <Poi Pos="0.079683" Type="beatgrid" />
+  <Poi Name="Cue 1" Num="1" />
+  <Poi Type="automix" Point="realStart" />
+  <Poi Pos="225.047800" Type="automix" Point="realEnd" />
+  <Poi Pos="0.092880" Type="automix" Point="fadeStart" />
+  <Poi Pos="220.775329" Type="automix" Point="fadeEnd" />
+  <Poi Pos="7.277279" Type="automix" Point="cutStart" />
+  <Poi Pos="218.996825" Type="automix" Point="cutEnd" />
+ </Song>
+ <Song FilePath="D:\for winlator\audio\Byadala  Nandor Love ft Jowy Landa (Official Video)(MP3_160K).mp3" FileSize="3712310" Flag="8192">
+  <Tags Author="﻿Nandor Love, Jowy Landa" Title="﻿Byadala" Album="﻿Byadala" Remix="MP3 160K" Flag="1" />
+  <Infos SongLength="183.530612" FirstSeen="-553292646" FirstPlay="-553292646" LastPlay="-553292646" PlayCount="2" Bitrate="160" Color="5362193" Cover="2082" />
+  <Scan Version="510" Bpm="0.605828" Volume="1.446604" Key="Bm" />
+  <Poi Pos="0.087370" Type="beatgrid" />
+  <Poi Name="Cue 1" Num="1" />
+  <Poi Type="automix" Point="realStart" />
+  <Poi Pos="181.765805" Type="automix" Point="realEnd" />
+  <Poi Pos="0.092880" Type="automix" Point="fadeStart" />
+  <Poi Pos="179.350930" Type="automix" Point="fadeEnd" />
+  <Poi Pos="10.385125" Type="automix" Point="cutStart" />
+  <Poi Pos="178.782041" Type="automix" Point="cutEnd" />
+  <Poi Pos="10.388073" Type="automix" Point="tempoStart" />
+  <Poi Pos="180.014763" Type="automix" Point="tempoEnd" />
+ </Song>
+ <Song FilePath="D:\for winlator\audio\Diamond Platnumz - Naanzaje (Official Music Video)(MP3_160K).mp3" FileSize="4056347" Flag="8192">
+  <Tags Author="﻿Diamond Platnumz" Title="﻿Naanzaje" Album="﻿Naanzaje" Remix="MP3 160K" Flag="1" />
+  <Infos SongLength="199.628526" FirstSeen="706576311" FirstPlay="706576311" LastPlay="706576311" PlayCount="2" Bitrate="160" Color="11456617" Cover="2082" />
+  <Scan Version="510" Bpm="0.638050" Volume="1.251610" Key="Gm" />
+  <Poi Pos="0.608367" Type="beatgrid" />
+  <Poi Name="Cue 1" Num="1" />
+  <Poi Pos="0.557279" Type="automix" Point="realStart" />
+  <Poi Pos="199.505850" Type="automix" Point="realEnd" />
+  <Poi Pos="0.650159" Type="automix" Point="fadeStart" />
+  <Poi Pos="197.183855" Type="automix" Point="fadeEnd" />
+  <Poi Pos="8.423764" Type="automix" Point="cutStart" />
+  <Poi Pos="196.778957" Type="automix" Point="cutEnd" />
+ </Song>
+ <Song FilePath="D:\for winlator\audio\Diamond Platnumz - Yatapita (Official Music Video)(MP3_160K).mp3" FileSize="6928901" Flag="8192">
+  <Tags Author="﻿Diamond Platnumz" Title="﻿Diamond Platnumz - Yatapita (Official Music Video)" Album="﻿Diamond Platnumz" Remix="MP3 160K" Flag="1" />
+  <Infos SongLength="327.236281" FirstSeen="-1285155502" FirstPlay="-1285155502" LastPlay="-1285155502" PlayCount="1" Bitrate="160" Color="2169809" Cover="2082" />
+  <Scan Version="510" Bpm="0.666417" Volume="1.552181" Key="Dm" />
+  <Poi Pos="0.401224" Type="beatgrid" />
+  <Poi Pos="0.092880" Type="automix" Point="realStart" />
+  <Poi Pos="324.800726" Type="automix" Point="realEnd" />
+  <Poi Pos="9.659501" Type="automix" Point="fadeStart" />
+  <Poi Pos="316.720181" Type="automix" Point="fadeEnd" />
+  <Poi Pos="27.022948" Type="automix" Point="cutStart" />
+  <Poi Pos="302.950748" Type="automix" Point="cutEnd" />
+ </Song>
+ <Song FilePath="D:\for winlator\audio\Diamond Platnumz Ft Zuchu - Mtasubiri (Music Video)(MP3_160K).mp3" FileSize="5012532" Flag="8192">
+  <Tags Author="﻿Diamond Platnumz" Title="﻿Diamond Platnumz Ft Zuchu - Mtasubiri (Music Video)" Album="﻿Diamond Platnumz" Remix="MP3 160K" Flag="1" />
+  <Infos SongLength="234.679274" FirstSeen="986180400" FirstPlay="986180400" LastPlay="986180400" PlayCount="1" Bitrate="160" Color="16545227" Cover="2082" />
+  <Scan Version="510" Bpm="0.599773" Volume="1.591666" Key="Bm" />
+  <Poi Pos="0.154104" Type="beatgrid" />
+  <Poi Pos="3.250794" Type="automix" Point="realStart" />
+  <Poi Pos="234.521542" Type="automix" Point="realEnd" />
+  <Poi Pos="3.715193" Type="automix" Point="fadeStart" />
+  <Poi Pos="232.292426" Type="automix" Point="fadeEnd" />
+  <Poi Pos="40.335964" Type="automix" Point="cutStart" />
+  <Poi Pos="231.654603" Type="automix" Point="cutEnd" />
+  <Poi Pos="40.336871" Type="automix" Point="tempoStart" />
+  <Poi Pos="232.265600" Type="automix" Point="tempoEnd" />
+ </Song>
+ <Song FilePath="D:\for winlator\audio\Alan Walker - Darkside (feat. Au_Ra and Tomine Harket)(MP3_160K).mp3" FileSize="5022228" Flag="8192">
+  <Tags Author="﻿Alan Walker" Title="﻿Alan Walker - Darkside (feat. Au/Ra and Tomine Harket)" Album="﻿Alan Walker" Remix="MP3 160K" Flag="1" />
+  <Infos FirstSeen="-2097903760" Color="9584647" Cover="2082" />
+ </Song>
+ <Song FilePath="D:\for winlator\audio\ASHA BLESSING FT  VYROOTA - MISTAKE OFFICIAL VIDEO 2023(MP3_160K).mp3" FileSize="3952315" Flag="8192">
+  <Tags Author="﻿ASHA BLESSING" Title="﻿ASHA BLESSING FT  VYROOTA - MISTAKE OFFICIAL VIDEO 2023" Album="﻿ASHA BLESSING" Remix="MP3 160K" Flag="1" />
+  <Infos SongLength="187.297188" FirstSeen="-844079970" FirstPlay="-844079970" LastPlay="-844079970" PlayCount="2" Bitrate="160" Color="6892281" Cover="2082" />
+  <Scan Version="510" Bpm="0.631338" Volume="1.377597" Key="A#m" />
+  <Poi Pos="0.575533" Type="beatgrid" />
+  <Poi Type="automix" Point="realStart" />
+  <Poi Pos="182.973243" Type="automix" Point="realEnd" />
+  <Poi Pos="0.371519" Type="automix" Point="fadeStart" />
+  <Poi Pos="180.465488" Type="automix" Point="fadeEnd" />
+  <Poi Pos="0.788753" Type="automix" Point="cutStart" />
+  <Poi Pos="179.862494" Type="automix" Point="cutEnd" />
+ </Song>
+ <Song FilePath="D:\for winlator\audio\K-391 _ Alan Walker - Ignite (feat. Julie Bergan _ Seungri)(MP3_160K).mp3" FileSize="4828431" Flag="8192">
+  <Tags Author="﻿K-391" Title="﻿K-391 &amp; Alan Walker - Ignite (feat. Julie Bergan &amp; Seungri)" Album="﻿K-391" Remix="MP3 160K" Flag="1" />
+  <Infos FirstSeen="-2097903760" Color="13462885" Cover="2082" />
+ </Song>
+ <Song FilePath="D:\8f28c.mp4" FileSize="743407855" Flag="8256">
+  <Tags Flag="1" />
+  <Infos FirstSeen="-2097903760" Color="6606615" Cover="2049" />
+ </Song>
+ <Song FilePath="D:\DAMSEL.mp4" FileSize="-2131835973" Flag="8256">
+  <Tags Flag="1" />
+  <Infos FirstSeen="-2097903760" Color="9648004" Cover="2" />
+ </Song>
+ <Song FilePath="D:\32b53_16.mp4" FileSize="762444515" Flag="8256">
+  <Tags Flag="1" />
+  <Infos FirstSeen="-2097903760" Color="3880281" Cover="2210" />
+ </Song>
+ <Song FilePath="D:\d87a9_10.mp4" FileSize="632216648" Flag="8256">
+  <Tags Flag="1" />
+  <Infos FirstSeen="-2097903760" Color="12472722" Cover="2" />
+ </Song>
+ <Song FilePath="D:\CLEANER.mp4" FileSize="-1933603700" Flag="8256">
+  <Tags Flag="1" />
+  <Infos FirstSeen="-2097903760" Color="15790387" Cover="2" />
+ </Song>
+ <Song FilePath="D:\24 S01 E01.mp4" FileSize="564050467" Flag="8256">
+  <Tags Flag="1" />
+  <Infos FirstSeen="-2097903760" Color="1550143" Cover="2210" />
+ </Song>
+ <Song FilePath="D:\24 S01 E02.mp4" FileSize="557805932" Flag="8256">
+  <Tags Flag="1" />
+  <Infos FirstSeen="-2097903760" Color="697057" Cover="2049" />
+ </Song>
+ <Song FilePath="D:\24 S01 E03.mp4" FileSize="565833567" Flag="8256">
+  <Tags Flag="1" />
+  <Infos FirstSeen="-2097903760" Color="4338645" Cover="2210" />
+ </Song>
+ <Song FilePath="D:\24 S01 E04.mp4" FileSize="570174253" Flag="8256">
+  <Tags Flag="1" />
+  <Infos FirstSeen="-2097903760" Color="8709857" Cover="2210" />
+ </Song>
+ <Song FilePath="D:\24 S01 E05.mp4" FileSize="572812556" Flag="8256">
+  <Tags Flag="1" />
+  <Infos FirstSeen="-2097903760" Color="3882545" Cover="2049" />
+ </Song>
+ <Song FilePath="D:\24 S01 E06.mp4" FileSize="575064766" Flag="8256">
+  <Tags Flag="1" />
+  <Infos FirstSeen="-2097903760" Color="13838943" Cover="2049" />
+ </Song>
+ <Song FilePath="D:\24 S01 E07.mp4" FileSize="404017751" Flag="8256">
+  <Tags Flag="1" />
+  <Infos FirstSeen="-2097903760" Color="4551670" Cover="2049" />
+ </Song>
+ <Song FilePath="D:\GUARDIANS.mp4" FileSize="1590524580" Flag="8256">
+  <Tags Flag="1" />
+  <Infos FirstSeen="-2097903760" Color="15668379" Cover="2" />
+ </Song>
+ <Song FilePath="D:\DEMON CITY.mp4" FileSize="-1356411178" Flag="8256">
+  <Tags Flag="1" />
+  <Infos FirstSeen="-2097903760" Color="6112045" Cover="2" />
+ </Song>
+ <Song FilePath="D:\LOVE HURTS.mp4" FileSize="1484854398" Flag="8256">
+  <Tags Flag="1" />
+  <Infos FirstSeen="-2097903760" Color="459223" Cover="2" />
+ </Song>
+ <Song FilePath="D:\FLIGHT RISK.mp4" FileSize="879209272" Flag="8256">
+  <Tags Flag="1" />
+  <Infos FirstSeen="-2097903760" Color="16137179" Cover="2" />
+ </Song>
+ <Song FilePath="D:\ACT OF VALOR.mp4" FileSize="1621126670" Flag="8256">
+  <Tags Flag="1" />
+  <Infos FirstSeen="-2097903760" Color="5971700" Cover="2" />
+ </Song>
+ <Song FilePath="D:\A WORKING MAN.mp4" FileSize="-1974765799" Flag="8256">
+  <Tags Flag="1" />
+  <Infos FirstSeen="-2097903760" Color="1139112" Cover="2" />
+ </Song>
+ <Song FilePath="D:\DESPICABLE ME.mp4" FileSize="593992200" Flag="8256">
+  <Tags Flag="1" />
+  <Infos FirstSeen="-2097903760" Color="13580728" Cover="2" />
+ </Song>
+ <Song FilePath="D:\THE BEEKEEPER .mp4" FileSize="861431776" Flag="8256">
+  <Tags Flag="1" />
+  <Infos FirstSeen="-2097903760" Color="3646392" Cover="2" />
+ </Song>
+ <Song FilePath="D:\THE PROTECTOR.mp4" FileSize="820056349" Flag="8256">
+  <Tags Title="The Protector Blockbuster.ownrip.VJ JINGO" Flag="1" />
+  <Infos FirstSeen="-2097903760" Color="12172031" Cover="2" />
+ </Song>
+ <Song FilePath="D:\THE PROSECUTOR.mp4" FileSize="1773676893" Flag="8256">
+  <Tags Flag="1" />
+  <Infos FirstSeen="-2097903760" Color="14094737" Cover="2" />
+ </Song>
+ <Song FilePath="D:\AMERICAN SNIPER.mp4" FileSize="827966104" Flag="8256">
+  <Tags Flag="1" />
+  <Infos FirstSeen="-2097903760" Color="88894" Cover="2" />
+ </Song>
+ <Song FilePath="D:\COME OUT FIGHTING.mp4" FileSize="1365545764" Flag="8256">
+  <Tags Author="VideoProc" Title="COME OUT FIGHTING JR" Genre="Video" Flag="1" />
+  <Infos FirstSeen="-2097903760" Color="13776126" Cover="2" />
+  <Comment>COME OUT FIGHTING JR</Comment>
+ </Song>
+ <Song FilePath="D:\KRAVEN THE HUNTER.mp4" FileSize="1193156521" Flag="8256">
+  <Tags Flag="1" />
+  <Infos FirstSeen="-2097903760" Color="1073899" Cover="2" />
+ </Song>
+ <Song FilePath="D:\THE SON OF BIGFOOT.mp4" FileSize="598914199" Flag="8256">
+  <Tags Flag="1" />
+  <Infos FirstSeen="-2097903760" Color="4482970" Cover="1" />
+ </Song>
+ <Song FilePath="D:\for winlator\audio\BIROWOOZO(MP3_160K).mp3" FileSize="5291711" Flag="8192">
+  <Tags Author="﻿Iryn Namubiru - Topic" Title="﻿BIROWOOZO" Album="﻿Iryn Namubiru - Topic" Remix="MP3 160K" Flag="1" />
+  <Infos SongLength="262.748662" FirstSeen="727293085" Bitrate="160" Color="418548" Cover="2082" />
+  <Scan Version="510" Bpm="0.624762" Volume="1.263273" Key="F#m" />
+  <Poi Pos="0.355669" Type="beatgrid" />
+  <Poi Pos="0.092880" Type="automix" Point="realStart" />
+  <Poi Pos="262.571247" Type="automix" Point="realEnd" />
+  <Poi Pos="1.578957" Type="automix" Point="fadeStart" />
+  <Poi Pos="261.549569" Type="automix" Point="fadeEnd" />
+  <Poi Pos="10.522993" Type="automix" Point="cutStart" />
+  <Poi Pos="261.236825" Type="automix" Point="cutEnd" />
+ </Song>
+ <Song FilePath="D:\for winlator\audio\Diamond Platnumz Ft Mr. Blue _ Jay Melody - Mapoz (Official Music Video)(MP3_160K).mp3" FileSize="5286581" Flag="8192">
+  <Tags Author="﻿Diamond Platnumz" Title="﻿Diamond Platnumz Ft Mr. Blue &amp; Jay Melody - Mapoz (Official Music Video)" Album="﻿Diamond Platnumz" Remix="MP3 160K" Flag="1" />
+  <Infos FirstSeen="-2097903760" Color="11871979" Cover="2082" />
+ </Song>
+ <Song FilePath="D:\BOGOTÁ_ CITY OF THE LOST 1.mp4" FileSize="1181290124" Flag="8256">
+  <Tags Flag="1" />
+  <Infos FirstSeen="-2097903760" Color="7482418" Cover="2" />
+ </Song>
+ <Song FilePath="D:\for winlator\audio\Alan Walker - Alone(MP3_160K).mp3" FileSize="3677914" Flag="8192">
+  <Tags Author="﻿Alan Walker" Title="﻿Alan Walker - Alone" Album="﻿Alan Walker" Remix="MP3 160K" Flag="1" />
+  <Infos FirstSeen="-2097903760" Color="6772837" Cover="2082" />
+ </Song>
+ <Song FilePath="D:\for winlator\audio\Iryn Namubiru - Mpulira(MP3_160K).mp3" FileSize="5194696" Flag="8192">
+  <Tags Author="﻿Iryn Namubiru" Title="﻿Mpulira" Album="﻿Mpulira" Remix="MP3 160K" Flag="1" />
+  <Infos FirstSeen="-2097903760" Color="16700345" Cover="2082" />
+ </Song>
+ <Song FilePath="D:\for winlator\audio\Maria   Vyroota official video(MP3_160K).mp3" FileSize="3125738" Flag="8192">
+  <Tags Author="﻿Vyroota" Title="﻿Maria   Vyroota official video" Album="﻿Vyroota" Remix="MP3 160K" Flag="1" />
+  <Infos SongLength="150.782993" FirstSeen="-1439828443" FirstPlay="-1439828443" LastPlay="-1439828443" PlayCount="1" Bitrate="160" Color="12767813" Cover="2082" />
+  <Scan Version="510" Bpm="0.611995" Volume="1.466650" Key="C#m" />
+  <Poi Pos="0.149637" Type="beatgrid" />
+  <Poi Pos="0.650159" Type="automix" Point="realStart" />
+  <Poi Pos="149.815147" Type="automix" Point="realEnd" />
+  <Poi Pos="0.743039" Type="automix" Point="fadeStart" />
+  <Poi Pos="147.028753" Type="automix" Point="fadeEnd" />
+  <Poi Pos="20.951655" Type="automix" Point="cutStart" />
+  <Poi Pos="137.850340" Type="automix" Point="cutEnd" />
+  <Poi Pos="20.951746" Type="automix" Point="tempoStart" />
+  <Poi Pos="134.174626" Type="automix" Point="tempoEnd" />
+ </Song>
+ <Song FilePath="D:\Sniper Ghost Shooter  VJ JUNIOR #action.mp4" FileSize="846534574" Flag="8256">
+  <Tags Flag="1" />
+  <Infos FirstSeen="-2097903760" Color="16244917" Cover="2" />
+ </Song>
+ <Song FilePath="D:\for winlator\audio\Alan Walker _ Ava Max - Alone_ Pt. II(MP3_160K).mp3" FileSize="5438716" Flag="8192">
+  <Tags Author="﻿Alan Walker" Title="﻿Alan Walker &amp; Ava Max - Alone, Pt. II" Album="﻿Alan Walker" Remix="MP3 160K" Flag="1" />
+  <Infos SongLength="245.139320" FirstSeen="1008801132" FirstPlay="1008801132" LastPlay="1008801132" PlayCount="1" Bitrate="160" Color="12907395" Cover="2082" />
+  <Scan Version="510" Bpm="0.681610" Volume="1.505771" Key="G#m" />
+  <Poi Pos="0.577528" Type="beatgrid" />
+  <Poi Pos="0.650159" Type="automix" Point="realStart" />
+  <Poi Pos="237.029297" Type="automix" Point="realEnd" />
+  <Poi Pos="4.829751" Type="automix" Point="fadeStart" />
+  <Poi Pos="245.139297" Type="automix" Point="fadeEnd" />
+  <Poi Pos="25.777778" Type="automix" Point="cutStart" />
+  <Poi Pos="209.827120" Type="automix" Point="cutEnd" />
+ </Song>
+ <Song FilePath="D:\for winlator\videos\Zuchu - Utaniua (Official Music Video)(720P_HD).mp4" FileSize="36231865" Flag="8256">
+  <Tags Author="Zuchu" Title="Utaniua" Album="Utaniua" Remix="720P HD" Flag="1" />
+  <Infos SongLength="240.581950" FirstSeen="1337589898" FirstPlay="1337589898" LastPlay="1337589898" PlayCount="3" Bitrate="127" Color="9487333" Cover="2082" />
+  <Scan Version="510" Bpm="0.666667" Volume="1.466893" Key="Fm" />
+  <Poi Pos="0.058118" Type="beatgrid" />
+  <Poi Pos="0.185760" Type="automix" Point="realStart" />
+  <Poi Pos="237.772336" Type="automix" Point="realEnd" />
+  <Poi Pos="0.278639" Type="automix" Point="fadeStart" />
+  <Poi Pos="235.357460" Type="automix" Point="fadeEnd" />
+  <Poi Pos="10.723991" Type="automix" Point="cutStart" />
+  <Poi Pos="232.724172" Type="automix" Point="cutEnd" />
+  <Poi Pos="10.724762" Type="automix" Point="tempoStart" />
+  <Poi Pos="234.057914" Type="automix" Point="tempoEnd" />
+ </Song>
+ <Song FilePath="D:\for winlator\audio\Future - Acidic Vokoz [Official 4K Video](MP3_160K).mp3" FileSize="3842226" Flag="8192">
+  <Tags Author="﻿Acidic Vokoz" Title="﻿Future - Acidic Vokoz [Official 4K Video]" Album="﻿Acidic Vokoz" Remix="Official 4K Video" Flag="1" />
+  <Infos FirstSeen="-2097903760" Color="15005813" Cover="2082" />
+ </Song>
+ <Song FilePath="D:\for winlator\audio\Diamond Platnumz - Sikomi (Official Video)(MP3_160K).mp3" FileSize="4955970" Flag="8192">
+  <Tags Author="﻿Diamond Platnumz" Title="﻿Diamond Platnumz - Sikomi (Official Video)" Album="﻿Diamond Platnumz" Remix="MP3 160K" Flag="1" />
+  <Infos SongLength="242.596281" FirstSeen="-1493142300" FirstPlay="-1493142300" LastPlay="-1493142300" PlayCount="2" Bitrate="160" Color="5208474" Cover="2082" />
+  <Scan Version="510" Bpm="0.624762" Volume="1.518649" Key="Bm" />
+  <Poi Pos="0.472404" Type="beatgrid" />
+  <Poi Name="Cue 1" Num="1" />
+  <Poi Pos="7.337506" Type="automix" Point="realStart" />
+  <Poi Pos="239.722812" Type="automix" Point="realEnd" />
+  <Poi Pos="7.337506" Type="automix" Point="fadeStart" />
+  <Poi Pos="237.029297" Type="automix" Point="fadeEnd" />
+  <Poi Pos="27.335692" Type="automix" Point="cutStart" />
+  <Poi Pos="236.945850" Type="automix" Point="cutEnd" />
+ </Song>
+ <Song FilePath="D:\for winlator\audio\Acidic Vokoz - Njakuwangula (Lyrics Video)(MP3_160K).mp3" FileSize="4041505" Flag="8192">
+  <Tags Author="﻿Acidic Vokoz" Title="﻿Acidic Vokoz - Njakuwangula (Lyrics Video)" Album="﻿Acidic Vokoz" Remix="MP3 160K" Flag="1" />
+  <Infos SongLength="190.487982" FirstSeen="-449774914" FirstPlay="-449774914" LastPlay="-449774914" PlayCount="1" Bitrate="160" Color="15449113" Cover="2082" />
+  <Scan Version="510" Bpm="0.651927" Volume="1.195966" Key="Cm" />
+  <Poi Pos="0.061134" Type="beatgrid" />
+  <Poi Type="automix" Point="realStart" />
+  <Poi Pos="189.196190" Type="automix" Point="realEnd" />
+  <Poi Pos="0.092880" Type="automix" Point="fadeStart" />
+  <Poi Pos="186.409796" Type="automix" Point="fadeEnd" />
+  <Poi Pos="9.067392" Type="automix" Point="cutStart" />
+  <Poi Pos="173.477732" Type="automix" Point="cutEnd" />
+ </Song>
+ <Song FilePath="D:\for winlator\audio\Kapeke - Akasanyalaze (Official Music Video)(MP3_160K).mp3" FileSize="3089780" Flag="8192">
+  <Tags Author="﻿KAPEKE" Title="﻿Akasanyalaze" Album="﻿Akasanyalaze" Remix="MP3 160K" Flag="1" />
+  <Infos SongLength="153.062132" FirstSeen="1300098271" FirstPlay="1300098271" LastPlay="1300098271" PlayCount="1" Bitrate="160" Color="10773723" Cover="2082" />
+  <Scan Version="510" Bpm="0.582313" Volume="1.597983" Key="Bm" />
+  <Poi Pos="0.534671" Type="beatgrid" />
+  <Poi Type="automix" Point="realStart" />
+  <Poi Pos="151.579864" Type="automix" Point="realEnd" />
+  <Poi Pos="0.092880" Type="automix" Point="fadeStart" />
+  <Poi Pos="149.164989" Type="automix" Point="fadeEnd" />
+  <Poi Pos="1.699410" Type="automix" Point="cutStart" />
+  <Poi Pos="148.876916" Type="automix" Point="cutEnd" />
+  <Poi Pos="18.096961" Type="automix" Point="tempoStart" />
+  <Poi Pos="143.820726" Type="automix" Point="tempoEnd" />
+ </Song>
+ <Song FilePath="D:\Iryn Namubiru Timeless Experience  Full Show(720P_HD).mp4" FileSize="1345601651" Flag="8256">
+  <Tags Remix="720P HD" Flag="1" />
+  <Infos FirstSeen="-2097903760" Color="6265289" Cover="2" />
+ </Song>
+ <Song FilePath="D:\for winlator\audio\Aziz Azion - NKUMIRA OMUKWANO (Official Video)(MP3_160K).mp3" FileSize="5154742" Flag="8192">
+  <Tags Author="﻿Aziz Azion" Title="﻿Aziz Azion - NKUMIRA OMUKWANO (Official Video)" Album="﻿Aziz Azion" Remix="MP3 160K" Flag="1" />
+  <Infos FirstSeen="-2097903760" Color="5756030" Cover="2082" />
+ </Song>
+ <Song FilePath="D:\for winlator\audio\Dax - _Lonely Dirt Road_ (Official Music Video)(MP3_160K).mp3" FileSize="4949573" Flag="8192">
+  <Tags Author="﻿Dax" Title="﻿Lonely Dirt Road" Album="﻿Lonely Dirt Road" Remix="MP3 160K" Flag="1" />
+  <Infos FirstSeen="-2097903760" Color="12359019" Cover="2082" />
+ </Song>
+ <Song FilePath="D:\for winlator\audio\Diamond Platnumz-Raha (Music Video) Feat. Zuchu(MP3_160K).mp3" FileSize="4225964" Flag="8192">
+  <Tags Author="﻿VYBZ WITH TROPIKANA" Title="﻿Diamond Platnumz-Raha (Music Video) Feat. Zuchu" Album="﻿VYBZ WITH TROPIKANA" Remix="MP3 160K" Flag="1" />
+  <Infos SongLength="199.004762" FirstSeen="1628886606" FirstPlay="1628886606" LastPlay="1628886606" PlayCount="1" Bitrate="160" Color="3835649" Cover="2082" />
+  <Scan Version="510" Bpm="0.612018" Volume="1.590937" Key="Cm" />
+  <Poi Pos="0.276372" Type="beatgrid" />
+  <Poi Type="automix" Point="realStart" />
+  <Poi Pos="198.855692" Type="automix" Point="realEnd" />
+  <Poi Pos="0.278639" Type="automix" Point="fadeStart" />
+  <Poi Pos="198.855692" Type="automix" Point="fadeEnd" />
+  <Poi Pos="9.463583" Type="automix" Point="cutStart" />
+  <Poi Pos="197.958821" Type="automix" Point="cutEnd" />
+  <Poi Pos="9.456553" Type="automix" Point="tempoStart" />
+  <Poi Pos="199.181248" Type="automix" Point="tempoEnd" />
+ </Song>
+ <Song FilePath="D:\for winlator\audio\Alan Walker - Diamond Heart (feat. Sophia Somajo)(MP3_160K).mp3" FileSize="4952641" Flag="8192">
+  <Tags Author="﻿Alan Walker" Title="﻿Alan Walker - Diamond Heart (feat. Sophia Somajo)" Album="﻿Alan Walker" Remix="MP3 160K" Flag="1" />
+  <Infos FirstSeen="-2097903760" Color="15564337" Cover="2082" />
+ </Song>
+</VirtualDJ_Database>
